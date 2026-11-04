@@ -1,0 +1,6 @@
+__pycache__/
+wandb/
+checkpoints/
+
+job_script.sh
+training_logs/
